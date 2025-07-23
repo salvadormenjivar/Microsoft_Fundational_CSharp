@@ -12,3 +12,4 @@
 /home/salvador/CSharp/Ejercicios Curso Microsoft CSharp/CursoEjerciciosMicrosoft/obj/Debug/net9.0/CursoEjerciciosMicrosoft.pdb
 /home/salvador/CSharp/Ejercicios Curso Microsoft CSharp/CursoEjerciciosMicrosoft/obj/Debug/net9.0/CursoEjerciciosMicrosoft.genruntimeconfig.cache
 /home/salvador/CSharp/Ejercicios Curso Microsoft CSharp/CursoEjerciciosMicrosoft/obj/Debug/net9.0/ref/CursoEjerciciosMicrosoft.dll
+/home/salvador/CSharp/Ejercicios Curso Microsoft CSharp/CursoEjerciciosMicrosoft/obj/Debug/net9.0/CursoEjerciciosMicrosoft.sourcelink.json
